@@ -26,14 +26,18 @@ An open-source prototype of an research-focused EHR
     * comes with CandleLite, a new lightweight FHIR server written from the ground-up in F#
     * can run entirely inside a web browser using sqlite for easy & cheap server-less deployments and isolation between users
 
-# Demo (🚧 work-in-progress)
-
-https://topicalehr-demo.vercel.app/patient/3
-
 # Interested?
 
 Advice, support & collaboration would be most welcome: https://www.linkedin.com/in/eugene-lubarsky-7076003/
 (Please use desktop Chrome or Firefox. Mobile devices are not currently supported)
 
+
+# Demo (🚧 work-in-progress)
+
+https://topicalehr-demo.vercel.app/patient/3
+
 # Screenshot
+
+
+<img alt="screenshot" src="https://github.com/topical-ehr/website/assets/932521/9c536155-2f74-40ca-9d7d-3f075465bff5">
 
