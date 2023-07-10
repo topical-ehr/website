@@ -36,6 +36,11 @@ Please use desktop Chrome or Firefox. Mobile devices are not currently supported
 
 [Link to demo](https://topicalehr-demo.vercel.app/patient/3)
 
+## To try
+* Double-click on "Heart disease" to edit the topic
+* Start typing "atenolol" in the new order textbox and press enter when it comes up
+* Click "Suggest conditions" to extract conditions from free-text (currently powered by GPT-3.5)
+
 ## Thanks to
 * FHIR Terminology powered by the public instance of [CSIRO Ontoserver](https://ontoserver.csiro.au/)
 
