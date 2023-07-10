@@ -34,7 +34,7 @@ Advice, support & collaboration would be most welcome: [https://www.linkedin.com
 
 Please use desktop Chrome or Firefox. Mobile devices are not currently supported.
 
-https://topicalehr-demo.vercel.app/patient/3
+[Link to demo](https://topicalehr-demo.vercel.app/patient/3)
 
 # Screenshot
 
