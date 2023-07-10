@@ -36,6 +36,9 @@ Please use desktop Chrome or Firefox. Mobile devices are not currently supported
 
 [Link to demo](https://topicalehr-demo.vercel.app/patient/3)
 
+## Thanks to
+* FHIR Terminology powered by the public instance of [CSIRO Ontoserver](https://ontoserver.csiro.au/)
+
 # Screenshot
 
 
