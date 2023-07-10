@@ -28,11 +28,11 @@ An open-source prototype of an research-focused EHR
 
 # Interested?
 
-Advice, support & collaboration would be most welcome: https://www.linkedin.com/in/eugene-lubarsky-7076003/
-(Please use desktop Chrome or Firefox. Mobile devices are not currently supported)
-
+Advice, support & collaboration would be most welcome: [https://www.linkedin.com/in/eugene-lubarsky-7076003/](https://www.linkedin.com/in/eugene-lubarsky-7076003/)
 
 # Demo (🚧 work-in-progress)
+
+Please use desktop Chrome or Firefox. Mobile devices are not currently supported.
 
 https://topicalehr-demo.vercel.app/patient/3
 
