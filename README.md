@@ -43,6 +43,7 @@ Please use desktop Chrome or Firefox. Mobile devices are not currently supported
 
 ## Thanks to
 * FHIR Terminology powered by the public instance of [CSIRO Ontoserver](https://ontoserver.csiro.au/)
+* Synthetic data courtesy of [Synthea](https://synthetichealth.github.io/synthea/)
 
 # Screenshot
 
