@@ -1,6 +1,6 @@
 # Topical-EHR
 
-An open-source prototype of an research-focused EHR
+An [open-source](https://github.com/topical-ehr/topical-ehr) prototype of an research-focused EHR
 
 ## Designed for research & innovation
 
@@ -23,7 +23,7 @@ An open-source prototype of an research-focused EHR
 * Web-application made using popular modern technologies (React, TypeScript)
 * Plugin-based architecture for extensibility
 * FHIR-based
-    * comes with CandleLite, a new lightweight FHIR server written from the ground-up in F#
+    * comes with [CandleLite](https://github.com/topical-ehr/candlelite), a new lightweight FHIR server written from the ground-up in F#
     * can run entirely inside a web browser using sqlite for easy & cheap server-less deployments and isolation between users
 
 # Interested?
