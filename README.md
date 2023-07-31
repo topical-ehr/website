@@ -23,15 +23,15 @@ A research-focused [open-source](https://github.com/topical-ehr/topical-ehr) EHR
 * Web-application made using popular modern technologies (React, TypeScript)
 * Architecture aims for easy customisation & extensibility
 * Should be comfortable to build & develop on most laptops
-* FHIR-based
-    * comes with [CandleLite](https://github.com/topical-ehr/candlelite), a new lightweight FHIR server written from the ground-up in F#
-    * can run entirely inside a web browser using sqlite for easy & cheap server-less deployments and isolation between users
+* [FHIR](https://www.hl7.org/fhir/)-based
+    * comes with [CandleLite](https://github.com/topical-ehr/candlelite), a new lightweight FHIR server written from the ground-up in [F#](https://fsharp.org/)
+    * can run entirely inside a web browser for easy & cheap server-less deployments and isolation between users
 
 # Interested?
 
 Advice, support & collaboration would be most welcome: [https://www.linkedin.com/in/eugene-lubarsky-7076003/](https://www.linkedin.com/in/eugene-lubarsky-7076003/)
 
-# Demo (🚧 work-in-progress)
+# Demo (🚧 work-in-progress 🚧)
 
 Please use desktop Chrome or Firefox. Mobile devices are not currently supported.
 
