@@ -1,6 +1,6 @@
 # Topical-EHR
 
-An [open-source](https://github.com/topical-ehr/topical-ehr) prototype of an research-focused EHR
+A research-focused [open-source](https://github.com/topical-ehr/topical-ehr) EHR prototype
 
 ## Designed for research & innovation
 
@@ -13,7 +13,7 @@ An [open-source](https://github.com/topical-ehr/topical-ehr) prototype of an res
 
 * **Topics** (e.g. Heart Disease) bring together a free-text summary with related diagnoses, prescriptions, tests, letters, etc - aiming to streamline complex histories and shared care
 * **Timeline** column chronologically shows observations, test results & EMR changes
-* **AI-assisted** summarisation and coding
+* **AI-assisted** coding
 * **Clinical Decision Support** helpers & alerts
 * Other **UX** experiments - like auto-complete based prescription orders
 * ...whatever **you** want to experiment with!
@@ -21,7 +21,8 @@ An [open-source](https://github.com/topical-ehr/topical-ehr) prototype of an res
 ## Tech
 
 * Web-application made using popular modern technologies (React, TypeScript)
-* Plugin-based architecture for extensibility
+* Architecture aims for easy customisation & extensibility
+* Should be comfortable to build & develop on most laptops
 * FHIR-based
     * comes with [CandleLite](https://github.com/topical-ehr/candlelite), a new lightweight FHIR server written from the ground-up in F#
     * can run entirely inside a web browser using sqlite for easy & cheap server-less deployments and isolation between users
