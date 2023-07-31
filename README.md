@@ -2,12 +2,16 @@
 
 A research-focused [open-source](https://github.com/topical-ehr/topical-ehr) EHR prototype
 
-## Designed for research & innovation
+## For research & innovation
 
-* A test-bed for innovative ideas
-* Open-Source means everything can be modified
-* Primarily focused on end-user UX - can be made to work with existing FHIR-based systems
+* A test-bed for innovative ideas & emerging technologies - open-source means all parts of the system can be freely modified
 * Not for clinical use - can start fresh & break things
+
+## Aims
+
+* Help multidisciplinary teams provide high-quality holistic care
+* A focus on design & UX - it should be pleasant, efficient & easy to use
+
 
 ## Features
 
@@ -26,6 +30,7 @@ A research-focused [open-source](https://github.com/topical-ehr/topical-ehr) EHR
 * [FHIR](https://www.hl7.org/fhir/)-based
     * comes with [CandleLite](https://github.com/topical-ehr/candlelite), a new lightweight FHIR server written from the ground-up in [F#](https://fsharp.org/)
     * can run entirely inside a web browser for easy & cheap server-less deployments and isolation between users
+    * could be made to "plug in" to existing systems
 
 # Interested?
 
