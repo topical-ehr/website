@@ -13,11 +13,11 @@ A research-focused [open-source](https://github.com/topical-ehr/topical-ehr) EHR
 * A focus on design & UX - it should be pleasant, efficient & easy to use
 
 
-## Features
+## Features under development
 
 * **Topics** (e.g. Heart Disease) bring together a free-text summary with related diagnoses, prescriptions, tests, letters, etc - aiming to streamline complex histories and shared care
 * **Timeline** column chronologically shows observations, test results & EMR changes
-* **AI-assisted** coding
+* **AI-assisted** summarisation & coding
 * **Clinical Decision Support** helpers & alerts
 * Other **UX** experiments - like auto-complete based prescription orders
 * ...whatever **you** want to experiment with!
