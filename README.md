@@ -45,7 +45,7 @@ Please use desktop Chrome or Firefox. Mobile devices are not currently supported
 ## To try
 * Double-click on "Heart disease" to edit the topic
 * Start typing "atenolol" in the new order textbox and press enter when it comes up
-* Click "Suggest conditions" to extract conditions from free-text (powered by GPT-4)
+* Click "Suggest conditions" to extract conditions from free-text (powered by GPT-4). Click the robot icon to view & edit the prompt.
 
 ## Thanks to
 * FHIR Terminology powered by the public instance of [CSIRO Ontoserver](https://ontoserver.csiro.au/)
